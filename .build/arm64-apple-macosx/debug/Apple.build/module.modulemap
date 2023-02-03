@@ -1,4 +1,0 @@
-module Apple {
-    header "/Users/brindy/Projects/Personal/SwiftPackageTest/.build/arm64-apple-macosx/debug/Apple.build/Apple-Swift.h"
-    requires objc
-}
