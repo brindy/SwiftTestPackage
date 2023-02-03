@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "084fc7154d4eb576123b59ee0a29556b9a2e7365cecda2215036340f743ac0d2"
+build_start_time: [1675423735, 360292911]
+build_end_time: [1675423735, 576414108]
+inputs:
+  "/Users/brindy/Projects/Personal/SwiftPackageTest/Apple/Sources/Apple/Apple.swift": [1675421810, 500611543]
